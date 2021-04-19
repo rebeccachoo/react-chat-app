@@ -6,6 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 import "./tailwind.output.css";
 import { BrowserRouter } from "react-router-dom";
 
+// npm install --save react-scrollable-feed
 ReactDOM.render(
 	<React.StrictMode>
 		<BrowserRouter>
