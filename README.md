@@ -16,6 +16,9 @@ And install dependencies `npm install --save react-scrollable-feed axios`.  <br 
 And you need to install Tailwind CSS. To learn more about Tailwind CSS, visit `https://tailwindcss.com/`.
 And type `npm start` to start the program.
 
+## Installation
+
+Modify your code to your database. On line #29 and #59, please change the url of your firebase database.
  
 ## Contributing
 
